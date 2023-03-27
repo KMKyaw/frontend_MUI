@@ -20,7 +20,7 @@ function Content(props) {
                                 sx={{ maxHeight: "140px" }}
                                 component="img"
                                 height="140"
-                                image="https://media.timeout.com/images/105927367/image.jpg"
+                                image="https://post.healthline.com/wp-content/uploads/2021/06/lizard-iguana-1200x628-facebook.jpg"
                                 alt="green iguana"
                             />
                             <CardContent>
@@ -50,7 +50,7 @@ function Content(props) {
                                 sx={{ maxHeight: "140px" }}
                                 component="img"
                                 height="140"
-                                image="https://media.timeout.com/images/105927367/image.jpg"
+                                image="https://post.healthline.com/wp-content/uploads/2021/06/lizard-iguana-1200x628-facebook.jpg"
                                 alt="green iguana"
                             />
                             <CardContent>
@@ -80,7 +80,7 @@ function Content(props) {
                                 sx={{ maxHeight: "140px" }}
                                 component="img"
                                 height="140"
-                                image="https://media.timeout.com/images/105927367/image.jpg"
+                                image="https://post.healthline.com/wp-content/uploads/2021/06/lizard-iguana-1200x628-facebook.jpg"
                                 alt="green iguana"
                             />
                             <CardContent>

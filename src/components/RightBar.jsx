@@ -6,7 +6,7 @@ import { ImageListItem, Typography } from "@mui/material";
 function RightBar(props) {
     const itemData = [
         {
-            img: "https://images.unsplash.com/photo-1551963831-b3b1ca40c98e",
+            img: "https://post.healthline.com/wp-content/uploads/2021/06/lizard-iguana-1200x628-facebook.jpg",
             title: "Breakfast",
         },
         {
